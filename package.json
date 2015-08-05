@@ -1,5 +1,5 @@
 {
-  "name": "@typicode/pegasus",
+  "name": "typicode-pegasus",
   "version": "0.3.2",
   "description": "Load data while still loading other scripts, works with jQuery, Backbone, Angular...",
   "main": "dist/pegasus-commonjs.js",
